@@ -5,6 +5,8 @@
 This game is made to run in the command prompt and is made only using ASCII art ( Text Art ).
 It is currently under devlopment.
 
+<hr>
+
 ### 20 / 5 / 2022
 
 started the project
@@ -24,5 +26,5 @@ quality of life changes
 
 added deaths and difficulties <br>
 stats are now capped at 100 <br>
-
+<hr><br>
 There is still a lot of work remaining, I will be continously ( hopefully ) be adding features.
